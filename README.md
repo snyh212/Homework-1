@@ -10,14 +10,15 @@ Project done using HTML, CSS, Github, GitLab on VS code. Purpose was to "clean u
 ## Installation
 
 First I created a repository
+Once created
 
 
 
 
 
 ## Usage
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+as shown in the images, changes were made to the html tags (mainly div tags), turning them into 'semantic elements'
+all changes made to html code were doctumented in code
 
 ![old code](/images/Screenshot%202022-06-15%20223130.png)
 
