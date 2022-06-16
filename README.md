@@ -19,9 +19,10 @@ First I created a repository
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+![old code](/images/Screenshot%202022-06-15%20223130.png)
+
+![my code](/images/Screenshot%202022-06-15%20223608.png)
+
 
 
 
